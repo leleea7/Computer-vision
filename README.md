@@ -1,3 +1,3 @@
 # Computer-vision
 
-Real-time video sentiment classificator
+A real-time system for facial expression recognition
